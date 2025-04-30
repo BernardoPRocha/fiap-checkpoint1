@@ -1,6 +1,6 @@
 Aluno    Github
 
-Bernardo      https://github.com/BernardoPRocha/fiap-checkpoint1
+Bernardo Pinto Rocha     https://github.com/BernardoPRocha/fiap-checkpoint1
 
 Pedro Palladino https://github.com/PedroPalladino/fiap-checkpoint1
 
