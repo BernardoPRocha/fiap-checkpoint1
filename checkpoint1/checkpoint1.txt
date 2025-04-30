@@ -1,3 +1,7 @@
 Aluno    Github
 
-Bernardo
+Bernardo      https://github.com/BernardoPRocha/fiap-checkpoint1
+
+Pedro Palladino https://github.com/PedroPalladino/fiap-checkpoint1
+
+Renato Izumi    https://github.com/RenatoIchikawa/fiap-checkpoint1
